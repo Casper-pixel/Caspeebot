@@ -5,12 +5,12 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>
+<i>Am Just A Advance Auto Filter Bot....😉
 
-You can't add me to UR group
+You can't add me to ur group
 
-For More Details Click Help Button Below..
-@Casper121
+
+
 </i>"""    
     
     HELP_TEXT = """
@@ -43,12 +43,12 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@Casper121
+
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Caspeebot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/Casper121">Casper</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">Casper</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
