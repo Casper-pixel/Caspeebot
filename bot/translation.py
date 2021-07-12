@@ -9,8 +9,6 @@ class Translation(object):
 
 You can't add me to ur group
 
-
-
 </i>"""    
     
     HELP_TEXT = """
@@ -43,7 +41,7 @@ You can't add me to ur group
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-
+@Casper121
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
